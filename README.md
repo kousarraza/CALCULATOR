@@ -29,14 +29,14 @@ Make sure you have Python installed on your machine. You can download it from [p
    ```bash
    cd CALCULATOR
 3. Install Dependencies
-  ```bash
- pip install streamlit 
-
-Make sure you have Python installed. Then, install the required packages using pip:
+   Make sure you have Python installed. Then, install the required packages using pip:
+   ```bash 
+   pip install streamlit
 
 5. Run the Application
 Start the Streamlit app with the following command:
-
+   ```bash
+      streamlit run calculator.py
 
 ## 🔗 Live Demo
 Try out the live demo of the calculator on **[Streamlit Sharing.](https://krcalculator.streamlit.app/)**
