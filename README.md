@@ -47,11 +47,3 @@ A special thank you to iCodeGuru, Pak Angeles, and ASPIRE Pakistan for the Gen A
 ## 📣 Future Work
 his project is just the beginning. I am excited to explore more advanced features and dive deeper into the world of Gen AI. Stay tuned for more updates!
 
-
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-* Enter two numbers in the input boxes.
-* Select the desired operation.
-* Click the "Calculate" button to see the result.
