@@ -29,9 +29,12 @@ Make sure you have Python installed on your machine. You can download it from [p
    ```bash
    cd CALCULATOR
 3. Install Dependencies
+  ```bash
+ pip install streamlit 
+
 Make sure you have Python installed. Then, install the required packages using pip:
 
-4. Run the Application
+5. Run the Application
 Start the Streamlit app with the following command:
 
 
