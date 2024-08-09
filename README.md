@@ -1,10 +1,10 @@
 # Basic Calculator with Streamlit
-
+# 
 Welcome to the **Basic Calculator with Streamlit** project! This application allows users to perform basic arithmetic operations through a simple and interactive web interface built using the Streamlit framework.
-------------------
+
 ## 📜 Description:
 This repository contains a simple calculator built using Python and Streamlit.The calculator performs basic arithmetic operations: addition, subtraction, multiplication, and division.
---------------
+<br>
 ## 📦 Features
 
 * User-friendly interface
